@@ -1,6 +1,6 @@
 👋 Hi, I’m @BlaiddIV,
 
-I trust this README finds you in good spirits. My name is Max, and I am reaching out to introduce myself as an aspiring programmer with a profound academic background in Computer Science and Mathematics.
+I trust this README finds you in good spirits. My name is Keven, and I am reaching out to introduce myself as an aspiring programmer with a profound academic background in Computer Science and Mathematics.
 I recently completed my Master's degree in Computer Science and Mathematics, where I cultivated a solid theoretical foundation in algorithms, data structures, and mathematical modeling. 
 The academic journey has not only equipped me with a comprehensive understanding of the theoretical aspects of computing but has also fueled my eagerness to apply this knowledge in real-world scenarios.
 
